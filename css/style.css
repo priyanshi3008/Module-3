@@ -1,0 +1,83 @@
+.navbar-custom
+{
+    background-color:dimgray;
+}
+.logo
+{
+    font-family: 'Yellowtail', cursive;
+    font-size:60px;
+    font-weight:bold;
+    color:whitesmoke;
+}
+a
+{
+    text-decoration:none;
+    outline:none;
+}
+.lists a
+{
+    text-decoration:none;
+    outline:none;
+    color:white;
+    font-size:30px;
+    padding:0px;
+    
+}
+.lists a:hover{
+    background-color:lightgray;
+    border-radius:5px;
+    color:black;
+    transition:.5s;
+        transform:translateY(5px);
+    box-shadow: 2px gray;
+}
+.hori
+{
+    background-color:white;
+}
+body
+{
+    background-color:darkgray;
+}
+.navbar-toggler.navbar-button
+{
+    
+    border-color: white;
+    
+}
+.element
+{
+    background-color:dimgray;
+    margin-top:20px;
+    border-radius:5px;
+    padding-left:0px;
+    padding-right:0px;
+    padding-bottom:5px;
+    border:1px solid black;
+    
+    transition:1s;
+    transform:translateY(5px);
+    
+}
+.element2
+{
+    margin:0px;
+    color:dimgray;
+    font-weight:600px;
+    background-color:lightgray;
+    font-family: 'Yellowtail', cursive;
+    font-size:47px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.content
+{
+    margin:10px;
+    font-size:20px;
+    font-weight:400;
+}
+.heading
+{
+    color:dimgray;
+    font-weight:700;
+}
